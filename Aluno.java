@@ -2,9 +2,11 @@ public class Aluno{
     private String nome;
     private int id;
     
-    public void Aluno(String nome, int id) { // Este é o metodo construtor
+    public void Aluno(String nome, int id) { // Este ï¿½ o metodo construtor
     	this.nome = "Victor";
     	this.id = "1";
+		this.nome = "Guilherme";
+		this.id = "2";
     	
     }
 
