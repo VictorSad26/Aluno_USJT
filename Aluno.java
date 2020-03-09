@@ -3,9 +3,9 @@ public class Aluno{
     private int id;
     
     public void Aluno(String nome, int id) { // Este � o metodo construtor
-    	this.nome = "Victor";
+    	this.nome = "Stefany";
     	this.id = "1";
-	this.nome = "Guilherme";
+	this.nome = "Rafael"
 	this.id = "2";
     	
     }
